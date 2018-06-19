@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">MP3ダウンロード</string>
+    <string name="market_url">com.euroasiamp3.jp</string>
+    <string name="footer_message">あなたが実行しているのはMP3 Downloader　V1.0.6です。</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        このソフトウェアの公式な使用許可は、公開ドメインから自由に使用できるオーディオファイルに制限されています。あなたは居住国の法律、グーグルアンドロイドマーケットおよび運営業者サービス協約で指定された条件と領域内でこのソフトウェアを使う事に同意します。このソフトウェアは、公共検索エンジンの単純なインターフェースでありユーロアジアとシンガポールでの誤用の場合責任は負いません。このツールの不法使用は厳格に禁止されています。 あなたは自分の行動に対する責任があります。
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">動画を見る</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">検索</string>
+    <string name="btn_topten_name">人気のある曲</string>
+    <string name="btn_downloads_name">ダウンロード</string>
+    <string name="btn_rate_name">評価</string>
+    <string name="btn_share_name">共有</string>
+    <string name="btn_cancel_name">キャンセル</string>
+    <string name="download_song">曲をダウンロードする</string>
+    <string name="share_song">曲の共有する</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">曲orアーティスト入力</string>
+    
+    <!-- Names -->
+    <string name="no_results">検索結果がみつかりませんでした</string>
+    <string name="error_results">結果をロード中にエラー発生しました</string>
+    <string name="no_active">インターネットの接続に問題があるかシグナルが弱いようです。 Wi-Fiあるいはデータを設定して再び試して下さい。</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">この曲をチェックアウトする</string>
+    <string name="dlmessage">ハイ！この曲をダウンロードします: )</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">曲のローディングに失敗しました。もう一度試してください。</string>
+    <string name="addedqueue">ダウンロードを待機中のラインに追加する</string>
+</resources>
